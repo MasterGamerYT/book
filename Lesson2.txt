@@ -1,6 +1,5 @@
 Lesson2
 
-bye
 
 hello
 
